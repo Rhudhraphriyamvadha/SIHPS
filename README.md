@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:28.11.2024
+## Register Number:24900189
+## Name:RHUDHRA PHRIYAMVADHA K S
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -11,15 +11,49 @@ Government of Gujarat
 
 ## Idea
 
+The alumni association platform serves as a connection bridge between the graduates and their alma mater. This was initiated to build a community for alumni and the institution. This has both web and mobile applications. It has a dynamic home page where usage becomes easy and interactive. There is also feedback and survey option in the homepage where anyone can share their thoughts and express their views.
+
+-->REGISTRATION AND LOGIN:
+The registration process is simple and user-friendly. Alumni can signup with their linkedIn or reddit profile or register using their email address. They can edit their profiles anytime. 
+
+-->COUNCIL:
+The council consists all the registered alumni and the juniors of the corresponding college can view them in the council. A searchable alumni directory is available where you can find based on the criteria like year of graduation, field of study, and profession. Here the alumni can contribute as much as they want for initiatives and projects such as scholarships, infrastructure developing and research funding. 
+
+--> ACCOMPLISHMENTS:
+It is a place to highlight the notable achievements and success stories of alumni. This serves as an inspiration for the juniors. Alumni can present their accomplishments in both career and social life. 
+
+-->NEWS FORUM:
+The management of the corresponding college can connect with both the alumni and the current students via the news forum where the news about what is happening in the college can be visible. It includes a comment function where anyone can share their thoughts.   
+
+-->CONNECT:
+ It is dedicated for job search and sharing knowledge for both alumni and current students. Here they can explore job opportunities shared within the community and apply for them directly. There is a special function where the juniors can chat or communicate with the alumni based on common interest and can ask their queries. Here they can invite a friend and can maximize the world of exploration.
+ 
+-->OCCASSION:
+Here the announcements for events such as alumni gatherings, reunions, and seminars are made. The information about the upcoming events are shared. Webinars and video conferencing options are available. There is a gallery option where you can share your experience about the events with photos and videos. Also you can set remainders and notifications for the upcoming events. 
+
+
+-->MOBILE APPLICATION:
+The alumni association portal has a mobile application where you can access all the features same as the web application. It is easily accessible and interactive so that you can have pleasant experience while using it.
 
 ## Proposed Solution / Architecture Diagram
-
+![proposed solution ](https://github.com/user-attachments/assets/39e639b3-8173-4408-8717-0e9e8538dce3)
 
 ## Use Cases
-
+![use cases](https://github.com/user-attachments/assets/42735a8b-3c1d-45bc-aefd-3b353608b172)
 
 ## Technology Stack
-
+```
+1> PostgreSQL 
+2> Node.js
+3> Express
+4> Google pay or phonepe
+5> LinkedIn
+6> Google cloud
+```
 
 ## Dependencies
+```
+Data collection : 10 days
+Budget : Seventy five thousand rupees only
+```                      
 
